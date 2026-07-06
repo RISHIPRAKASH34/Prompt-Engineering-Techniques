@@ -2,11 +2,12 @@
 
 Requirements:
 
-Python 3.11.9, 
+Python 3.11.9
 
 Ollama, Run this command in cmd - pip install ollama
 
 Streamlit, Run this command in cmd - pip install streamlit
+
 
 For running the programs on streamlit, run this command on the terminal:
 python -m streamlit run file_name.py
