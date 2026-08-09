@@ -5,7 +5,9 @@ And lastly there is a file named Combined_techniques that consists all of the si
 
 Requirements:
 Python 3.11.9
+
 Ollama installation, Run this command in cmd - pip install ollama
+
 Streamlit installation, Run this command in cmd - pip install streamlit
 
 
