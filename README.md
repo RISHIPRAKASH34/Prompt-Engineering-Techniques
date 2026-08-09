@@ -20,6 +20,7 @@ Replace llama3.2 with the model you have installed
 Then select the program
 
 python -m streamlit run [file_name.py]
+
 This will open up a window in the browser and the program should run through streamlit framework UI.
 
 Replace file_name placeholder with actual name of the file
